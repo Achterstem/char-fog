@@ -1,9 +1,9 @@
 :root {
-    --bg-dark: #1e1e1e;
-    --bg-light: #252526;
-    --text-primary: #7c7c7c;
-    --text-accent: #bebebe;
-    --border-color: #383838;
+    --bg-dark: #6b6b6b;
+    --bg-light: #515151;
+    --text-primary: #363636;
+    --text-accent: #131313;
+    --border-color: #373737;
 }
 
 body {
@@ -67,13 +67,13 @@ body {
 }
 
 .sidebar a:hover, .sidebar .active a {
-    background-color: #383838;
+    background-color: #818181ba;
     color: var(--text-accent);
 }
 
 .profile-card {
     display: none;
-    background-color: rgba(37, 37, 38, 0.5);
+    background-color: rgba(155, 155, 155, 69);
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
