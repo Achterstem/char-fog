@@ -73,7 +73,7 @@ body {
 
 .profile-card {
     display: none;
-    background-color: rgba(155, 155, 155, 69);
+    background-color: rgba(155 155 155 / 69%);
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
