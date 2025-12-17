@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    const initialHash = window.location.hash || '#molly';
+    const initialHash = window.location.hash || '#gil';
     showProfile(initialHash);
 
     navLinks.forEach(link => {
