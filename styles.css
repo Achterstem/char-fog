@@ -100,7 +100,7 @@ body {
 }
 
 .id-info {
-    color: #232323;
+    color: var(--text-primary);
     margin: 0;
     margin-left: 20px;
     font-size: 0.9em;
